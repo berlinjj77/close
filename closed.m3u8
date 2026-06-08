@@ -44,6 +44,9 @@ https://sbtnews.maissbt.com/channel.m3u8
 #EXTINF:-1 tvg-id="SBT Interior TH+" tvg-name="SBT Interior TH+" tvg-logo="https://thmais.com.br/wp-content/uploads/2025/09/TH_TV_PORTAL_LOGOS_VETORIAIS-08.png",SBT Interior TH+
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png",SporTV
+https://0606.cdn12embed.xyz/sportv/index.m3u8
+
 #EXTINF:-1 tvg-id="Times Brasil | CNBC" tvg-name="Times Brasil | CNBC" tvg-logo="https://i.imgur.com/FPpNGo0.png",Times Brasil | CNBC
 https://jmp2.uk/plu-679a973a97782f0008ff4bb6.m3u8
 
