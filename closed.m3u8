@@ -8,6 +8,9 @@ https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG474756777404
 #EXTINF:-1 tvg-id="Prime Vídeo" tvg-name="Prime Vídeo" tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png",Prime Vídeo
 https://6211080fa89981f66b1a0c9d55c61d0f.cazetv.shop/embedtv/8c1948f44930bc4e04252fd023827ab7/file.txt
 
+#EXTINF:-1 tvg-id="Prime Vídeo OP2" tvg-name="Prime Vídeo OP2" tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png",Prime Vídeo OP2
+https://rdcstream.life/live/primevideo/index.m3u8
+
 #EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/mexico/azteca-7-mx.png",Azteca 7
 https://regionales.saohgdasregions.fun:9092/MTc5LjkwLjIyMC4xMDE=/1_.m3u8?token=BxgnoDyaGxOXKCx8ho-hLQ&expires=1780723294
 
